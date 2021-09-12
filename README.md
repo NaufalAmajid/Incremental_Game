@@ -1,6 +1,6 @@
 # Tugas Chapter 2 - Incremental Game
 
-<h3>File Build StandAlone ada di <a href = "https://github.com/NaufalAmajid/Incremental_Game/releases/tag/v1.0">Release</a> --> Pong.zip </h3>
+<h3>File Build StandAlone ada di <a href = "https://github.com/NaufalAmajid/Incremental_Game/releases/tag/v1.0">Release</a> --> IncrementalGame.zip </h3>
 
 # <p>
 Buatlah incremental game sesuai dengan materi!
